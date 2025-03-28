@@ -1,5 +1,5 @@
 # Nome da Startup: Cat´s Miau
-
+# NÂO CONCLUIDO AINDA !!!
 ## Slogan: Inovando o futuro com tecnologia.
 
 ## Breve Descrição: Plataforma de soluções tecnológicas para empresas.
