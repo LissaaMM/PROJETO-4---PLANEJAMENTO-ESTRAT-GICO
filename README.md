@@ -1,4 +1,4 @@
-# Nome da Startup: TechSolutions
+# Nome da Startup: Cat´s Miau
 
 ## Slogan: Inovando o futuro com tecnologia.
 
