@@ -11,7 +11,7 @@ Aqui você pode encontrar fotos e curiosidades dos felinos de forma rápida.
 Fornecerimagens e conteúdos vizados ao mundo dos felinos.
 
 # Visão: 
-Nossp intuito é trazer os detalhes curioidades e muito mais sobre os gatos, animais esses que conquistam o corações de todos os humanos.
+Nosso intuito é trazer os detalhes curioidades e muito mais sobre os gatos, animais esses que conquistam o corações de todos os humanos.
 
 ## Metas de Longo Prazo:
 
@@ -25,26 +25,22 @@ Nossp intuito é trazer os detalhes curioidades e muito mais sobre os gatos, ani
 
 * Ação 1: Desenvolver uma estratégia de marketing digital abrangente.
 * Ação 2: Criar um programa de indicações para clientes satisfeitos.
-* Ação 3: Participar de eventos e feiras do setor.
+* Ação 3: Criar eventos da marca.
 
-### Meta 2: Lançar 3 novos produtos inovadores nos próximos 5 anos.
+### Meta 2: Atualizar mensalmente.
 
-* Ação 1: Realizar pesquisas de mercado para identificar novas oportunidades.
-* Ação 2: Investir em pesquisa e desenvolvimento de novas tecnologias.
-* Ação 3: Criar um processo de testes e validação de produtos.
+* Ação 1: Realizar pesquisas de mercado para identificar novos assuntos.
+* Ação 2: Investir em pesquisa e desenvolvimento de novas estratégias.
 
-### Meta 3: Tornar-se uma empresa carbono neutro até 2030.
+### Meta 3: Tornar acessível a todos os amantes de gato .
 
-* Ação 1: Implementar práticas de sustentabilidade em todas as áreas da empresa.
-* Ação 2: Compensar as emissões de carbono por meio de projetos de reflorestamento.
-* Ação 3: Incentivar o uso de transporte público e bicicletas entre os colaboradores.
+* Ação 1: Arranjar parcerias para divulgação.
 
 ## Recursos Necessários:
 
-* Equipe de marketing digital
-* Equipe de pesquisa e desenvolvimento
-* Orçamento para marketing e eventos
-* Parcerias com empresas de sustentabilidade
+* Equipe de marketing digital;
+* Equipe de pesquisa e desenvolvimento;
+* Parcerias com empresas ou epaços de veterinária;
 
 ## Orçamento:
 
@@ -60,17 +56,17 @@ Nossp intuito é trazer os detalhes curioidades e muito mais sobre os gatos, ani
 
 ## Métricas de Sucesso:
 
-* Número de novos clientes
-* Receita gerada por novos produtos
-* Emissões de carbono reduzidas
+* Número de novos users
+* Novas parcerias
+* Mais desenvolvimento
 
 ## Equipe:
 
-* \[Nome do fundador]: CEO
-* \[Nome do colaborador]: CMO
-* \[Nome do colaborador]: CTO
+* \[Nome do fundador]: Ana Larissa Mendes
+* \[Nome do colaborador/vice]: Daiara Barroso
+
 
 ## Contato:
 
-* Email: contato@techsolutions.com
-* Website: www.techsolutions.com
+* Email: gato.meow@miau.com
+* Website: https://www.blogger.com/blog/post/edit/2264914610301352471/7215615312382198059
