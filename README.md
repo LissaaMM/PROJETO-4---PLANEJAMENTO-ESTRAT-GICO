@@ -1,5 +1,5 @@
 # Nome da Startup: Cat´s Miau
-# Slogan: Um miau para cada foto e curiosidade.
+## Slogan: Um miau para cada foto e curiosidade.
 
 <img src="gatin.png">
 
@@ -13,25 +13,15 @@ Fornecerimagens e conteúdos vizados ao mundo dos felinos.
 # Visão: 
 Nossp intuito é trazer os detalhes curioidades e muito mais sobre os gatos, animais esses que conquistam o corações de todos os humanos.
 
-Nosso intuíto .
-
-## Valores:
-
-* Inovação
-* Qualidade
-* Compromisso
-* Ética
-* Sustentabilidade
-
 ## Metas de Longo Prazo:
 
-1.  Expandir nossa base de clientes em 50% nos próximos 3 anos.
-2.  Lançar 3 novos produtos inovadores nos próximos 5 anos.
-3.  Tornar-se uma empresa carbono neutro até 2030.
+1.  Expandir nosso site para redes sociais.
+2.  Atualizar mensalmente.
+3.  Tornar acessível a todos os amantes de gato.
 
 ## Planos de Ação:
 
-### Meta 1: Expandir nossa base de clientes em 50% nos próximos 3 anos.
+### Meta 1: Expandir nosso site para redes sociais.
 
 * Ação 1: Desenvolver uma estratégia de marketing digital abrangente.
 * Ação 2: Criar um programa de indicações para clientes satisfeitos.
