@@ -8,7 +8,7 @@ Aqui você pode encontrar fotos e curiosidades dos felinos de forma rápida.
 
 # Missão:
 
-Fornecer soluções tecnológicas inovadoras e acessíveis para empresas de todos os portes, impulsionando seu crescimento e sucesso.
+Fornecerimagens e conteúdos vizados ao mundo dos felinos.
 
 # Visão: 
 Nossp intuito é trazer os detalhes curioidades e muito mais sobre os gatos, animais esses que conquistam o corações de todos os humanos.
