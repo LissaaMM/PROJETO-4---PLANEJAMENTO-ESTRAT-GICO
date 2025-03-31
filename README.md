@@ -3,7 +3,8 @@
 
 <img src="gatin.png">
 
-# Breve Descrição: Aqui você pode encontrar fotos e curiosidades dos felinos de forma rápida.
+# Breve Descrição:
+Aqui você pode encontrar fotos e curiosidades dos felinos de forma rápida.
 
 # Missão:
 
