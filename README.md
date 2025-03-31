@@ -1,5 +1,5 @@
 # Nome da Startup: Cat´s Miau
-#Slogan: Um miau para cada foto e curiosidade.
+# Slogan: Um miau para cada foto e curiosidade.
 
 <img src="gatin.png">
 # Breve Descrição: Aqui voc~e pode encontrar fotos e curiosidades dos felinos de forma rápida.
