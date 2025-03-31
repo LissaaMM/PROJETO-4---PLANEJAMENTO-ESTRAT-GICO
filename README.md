@@ -1,7 +1,8 @@
 # Nome da Startup: Cat´s Miau
-## Slogan: Inovando o futuro com tecnologia.
+#Slogan: Um miau para cada foto e curiosidade.
 
-## Breve Descrição: Plataforma de soluções tecnológicas para empresas.
+<img src="gatin.png">
+# Breve Descrição: Aqui voc~e pode encontrar fotos e curiosidades dos felinos de forma rápida.
 
 ## Missão:
 
