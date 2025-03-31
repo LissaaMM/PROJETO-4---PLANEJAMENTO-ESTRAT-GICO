@@ -2,15 +2,17 @@
 # Slogan: Um miau para cada foto e curiosidade.
 
 <img src="gatin.png">
-# Breve Descrição: Aqui voc~e pode encontrar fotos e curiosidades dos felinos de forma rápida.
 
-## Missão:
+# Breve Descrição: Aqui você pode encontrar fotos e curiosidades dos felinos de forma rápida.
+
+# Missão:
 
 Fornecer soluções tecnológicas inovadoras e acessíveis para empresas de todos os portes, impulsionando seu crescimento e sucesso.
 
-## Visão:
+# Visão: 
+Nossp intuito é trazer os detalhes curioidades e muito mais sobre os gatos, animais esses que conquistam o corações de todos os humanos.
 
-Ser referência no mercado de tecnologia, reconhecida pela excelência em nossos produtos e serviços, e pelo impacto positivo que geramos na sociedade.
+Nosso intuíto .
 
 ## Valores:
 
